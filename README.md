@@ -1,3 +1,7 @@
+## Status
+[![Node CI](https://github.com/pypestream/n8n/actions/workflows/tests.yml/badge.svg)](https://github.com/pypestream/n8n/actions/workflows/tests.yml)
+[![Docker Image CI](https://github.com/pypestream/n8n/actions/workflows/docker-images.yml/badge.svg)](https://github.com/pypestream/n8n/actions/workflows/docker-images.yml)
+
 # n8n - Workflow Automation Tool
 
 ![n8n.io - Workflow Automation](https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png)
