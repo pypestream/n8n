@@ -2,12 +2,12 @@ name: Docker Image CI/CD
 
 on:
   push:
-    branches: [main, development]
+    branches: [develop]
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    env: 
+    env:
       PROJECT_ID: pype-334421
       IMAGE_NAME: devops/docker_build/coywolf-n8n
       VM_NAME: vm-coywolf
